@@ -1,0 +1,81 @@
+.main1
+{
+    border: 1px solid red;
+    background-image: url(bg.jpg);
+    background-size:100% 100%;
+}
+.main
+{
+	margin-left: 500px;
+    margin-top: 5%;
+    border: 1px solid white;
+    border-radius:20px;
+}
+body
+{
+font-size:  20px;
+}
+button
+{
+color: white;
+width: 100px;
+height: 40px;
+font-size: 25px;
+margin-left: 200px;
+
+    height:40px;
+	border:1px solid grey;
+	border-radius:7px;
+	background-color:#ECF0F1;
+    color:grey;
+	padding:0px;
+
+	transition: 0.8s;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.mydiv
+{
+    background-color:#ECF0F1;
+	border: 1px #ECF0F1;;
+	border-radius:7px;
+	
+}
+
+button:hover
+{
+color: red;
+}
+
+#input1
+{
+    height:40px;
+	border:1px solid grey;
+	border-radius:7px;
+	background-color:#ECF0F1;
+	color:grey;
+	font-size:39px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    transition: 0.5s;
+	
+
+ }
+
+ h2{
+  color: white;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+
+ }
+
+#myid{
+
+background-color: grey;
+width: 30%;
+color: white;
+border-radius:7px;
+ font-family: 'Open Sans Condensed', sans-serif;
+ margin-left: 129px; 
+}
+
