@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>Hospital Management</title>
+  
+  <link rel="stylesheet" type="text/css" href="bootstrape/css/bootstrap.min.css">
+
+  <link rel="stylesheet" type="text/css" href="mgt.css">
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+
+
+</head>
+<body>
+
+  <div class="cont">
+
+  <div class="patient col-md-3 ">
+  <h2 > Pateint Log-In</h2>
+  <br>
+  <br>
+   <input type='text' id='pUser'   />
+  <br>
+  <br>
+  <input type='text' id='pPass'  />
+  <br>
+  <br>
+  <button style="width: 90px"  type='submit' onclick='patientLogin()'>LOGIN</button>
+
+  <div id='patientcont' class="patient1 col-md-12 ">
+  </div>
+
+
+
+ </div>
+
+  <div class="doctor col-md-3 ">
+  <h2 > Doctor Log-In</h2>
+  <br>
+  <br>
+   <input type='text' id='dUser'   />
+  <br>
+  <br>
+  <input type='text' id='dPass'  />
+  <br>
+  <br>
+  <button style="width: 90px"  type='submit' onclick='doctorLogin()'>LOGIN</button>
+  <div id='doctorcont' class="patient1 col-md-12 ">
+  </div>
+
+ </div>
+
+
+
+
+  <div class="staff col-md-3 ">
+  <h2 > Staff Log-In</h2>
+  <br>
+  <br>
+   <input type='text' id='sUser'   />
+  <br>
+  <br>
+  <input type='text' id='sPass'  />
+  <br>
+  <br>
+  <button style="width: 90px"  type='submit' onclick='staffLogin()'>LOGIN</button>
+  <div id='staffcont' class="patient1 col-md-12 ">
+  </div>
+
+ </div>
+
+  </div>
+
+  <script type='text/javascript' src='mgt.js'></script>
+</body>
+</html>
