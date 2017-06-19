@@ -1,0 +1,76 @@
+.main{
+
+border: 4px solid red;
+	height:700px;
+	background-image:url(../images/bg.jpg);
+	background-size:100% 100%;
+	
+}
+
+.login{
+ border: 3px solid red;
+ height:230px;
+  margin-left: 800px;
+  margin-top: 80px;
+}
+.login1{
+
+ border: 3px solid blue;
+}
+.login1{
+
+ border: 3px solid yellow;
+}
+#mybtn
+{
+
+margin-top: 30px;
+margin-left:  200px;
+color: white;
+width: 130px;
+height: 40px;
+font-size: 25px;
+border:1px solid grey;
+border-radius:7px;
+background-color:#ECF0F1;
+color:grey;
+padding:0px;
+transition: 0.8s;
+font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+#user
+{
+    height:30px;
+	width: 80%;
+	border:1px solid grey;
+	border-radius:7px;
+	background-color:#ECF0F1;
+	color:grey;
+	font-size:30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+   transition: 0.5s;
+}
+#pass
+
+{
+
+    height:30px;
+    width: 80%;
+	border:1px solid grey;
+	border-radius:7px;
+	background-color:#ECF0F1;
+	color:grey;
+	font-size:30px;
+    font-family: 'Open Sans Condensed', sans-serif;
+   transition: 0.5s;
+
+}
+h1
+{
+
+	color:grey;
+    font-family: 'Open Sans Condensed', sans-serif;
+ 
+}
