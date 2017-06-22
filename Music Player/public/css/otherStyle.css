@@ -1,0 +1,94 @@
+.myDiv{
+	height: 900px;	
+    background-color: dimgray;
+
+}
+
+
+.myDiv:hover {
+    background-color: black;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
+}
+
+.myDiv1{
+	margin-left: 100px;
+	height: 700px;
+	top: 50px;	
+}
+
+.myDiv2{
+	margin-left: 150px;
+	height: 500px;
+	top: 50px;	
+}
+.myDiv3{
+	height: 200px;	
+}
+.myDiv4{
+	height: 300px;
+	margin-left: 160px;	
+}
+.myDiv5{
+	height: 150px;
+	margin-left: 130px;	
+}
+#P1{
+	  font-size: 45px;
+	  text-align: center;
+      font-family: 'Frijole', cursive;
+}
+
+#pDiv{
+	font-size: 50px;
+	font-family: 'Frijole', cursive;
+	margin-left: 80px;
+	margin-top: 20px;
+	
+}
+#kk{
+	border: 2px solid red;
+}
+#pDiv:hover{
+	font-size: 70px;
+	color: gray;
+
+
+}
+#P2{
+	  font-size: 25px;
+	  text-align: center; 
+      font-family: 'Frijole', cursive;
+	}
+
+#P1:hover{
+	color: gray;
+	transition: color 1s;
+}
+
+#P2:hover{
+	color: gray;
+	transition: color 1s;
+}
+#h{
+  font-family: 'Frijole', cursive;
+}
+
+#btn{
+
+	height: 70px;
+	width: 150;
+}
+#songname
+{
+
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Frijole', cursive;
+  
+}
+#songname:hover{
+	color: gray;
+	transition: color 1s;
+}

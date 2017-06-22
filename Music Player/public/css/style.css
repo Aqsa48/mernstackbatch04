@@ -1,0 +1,75 @@
+#main
+{
+  height: 900px;
+  background-color: dimgray;
+
+}
+#main:hover {
+    background-color: black;
+    -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear;
+}
+#main1
+{
+height: 130px;
+}
+#album
+{
+
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Frijole', cursive;
+  
+}
+#album:hover{
+	color: gray;
+   transition: color 1s;
+}
+label{
+  font-size: 10px;
+  text-align: center;
+  font-family: 'Frijole', cursive;
+
+}
+label:hover{
+	color: gray;
+	transition: color 1s;
+}
+
+
+#myBtn{
+	background-color:gray;
+	margin-left: 100px;
+	border:1px solid;
+	border-radius:15px;
+	margin-left:70%;
+	margin-top: 10%;
+	height:25px;
+	color:white;
+	font-size:13px;
+    font-family: 'Frijole', cursive;
+}
+#dataShow{ 
+height: 700px;
+margin-left: 420px;
+margin-top: 70px;
+ }
+#imp{
+
+margin-top: 30px;
+
+}
+
+#imp1{
+}
+
+
+#kk{
+	border: 2px solid red;
+}
+
+#imp2{
+height: 100%;
+
+}
