@@ -1,0 +1,90 @@
+
+#para
+ {
+ color: gray;
+ font-size: 40px;
+color: #DB7093;
+font-size: 80px;
+margin-left: 210px;
+margin-top: 20px;
+display: inline-block;
+font-family: 'Open Sans Condensed', sans-serif;
+ }
+ #logout
+ {  
+margin-left: 1190px;
+width: 85px;
+height: 38px;
+font-size: 25px;
+border:1px solid pink;
+border-radius:7px;
+background-color:#DB7093;
+color:white;
+padding:0px;
+transition: 0.8s;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#createNewTopic
+{
+height: 600px;
+margin-top: 40px;
+margin-left:400px;
+
+}
+#containerTopic{ 
+
+  border: 1px solid pink;
+  border-radius:7px;
+  background-color:#ECF0F1;
+  color:red;
+  font-family: 'Open Sans Condensed', sans-serif;
+ }
+#topic
+{
+height: 100%;
+width: 100%;
+}
+
+#myDiv
+{ 
+  border: 1px solid pink;
+  border-radius:7px;
+  background-color:#ECF0F1;
+  color:red;
+  font-family: 'Open Sans Condensed', sans-serif;
+  transition: 0.5s;
+ }
+
+#cmt
+{
+height: 30px;
+color:#DB7093;
+font-family: 'Open Sans Condensed', sans-serif;
+transition: 0.5s;
+}
+#comment
+{
+margin-top: 23px;
+margin-left: 150px;
+
+}
+a 
+{
+  color:#DB7093;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
+
+}
+.btn{ 
+	
+font-size: 20px;
+width: 200px;
+border:1px solid pink;
+border-radius:7px;
+background-color:#DB7093;
+color:white;
+padding:0px;
+transition: 0.8s;
+font-family: 'Open Sans Condensed', sans-serif;
+}
