@@ -1,0 +1,17 @@
+{
+  "name": "lecture17",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "next"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^2.4.7",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
